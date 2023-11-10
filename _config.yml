@@ -25,6 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:scc201@bath.ac.uk"}
   - {title: Github, icon: github, url: "https://github.com/sorayacaixeiro"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/sorayacaixeiro"}
+  - {title: orcidID, icon: orcid, url:"https://orcid.org/0000-0003-4605-957X"}  
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
