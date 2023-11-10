@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Soraya's Lab"
+author: "Soraya Caixeiro"
+description: "University of Bath"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
