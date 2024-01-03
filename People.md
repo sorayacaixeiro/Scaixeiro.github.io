@@ -3,7 +3,7 @@ layout: page
 title: "People"
 ---
 
-![My headshot](https://github.com/sorayacaixeiro/sorayacaixeiro.github.io/blob/master/images/headshot.png)
+![My headshot](https://sorayacaixeiro.github.io/images/headshot.png)
 
 **Dr. Soraya Caixeiro (Group Leader)**
 
