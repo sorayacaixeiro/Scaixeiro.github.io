@@ -1,4 +1,4 @@
-# Publications
+#
 # 2023
 [Snapshot hyperspectral imaging of intracellular lasers](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-20-33175&id=538525)
 
