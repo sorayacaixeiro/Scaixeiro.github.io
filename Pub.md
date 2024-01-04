@@ -1,4 +1,3 @@
-# Publication list
 
 [Google Scholar](https://scholar.google.co.uk/citations?user=9EDbO-wAAAAJ&hl=en)
 
