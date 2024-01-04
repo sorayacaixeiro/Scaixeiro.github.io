@@ -36,6 +36,10 @@ Van Duong Ta, <ins>Soraya Caixeiro</ins>, Dhruv Saxena, Riccardo Sapienza, Advan
  Van Duong Ta, Dhruv Saxena, <ins>Soraya Caixeiro</ins> and Riccardo Sapienza, Nanoscale, 23, (2020).
  
 # 2017
+[Random Laser Detector](https://patents.google.com/patent/US20170153179A1/en)
+
+Riccardo Sapienza,Michele Gaio,  <ins>Soraya Caixeiro</ins> , Patent US20170153179A1.
+
 [Microsphere solid‐state biolasers](https://onlinelibrary.wiley.com/doi/full/10.1002/adom.201601022)
 
 Van Duong Ta, <ins>Soraya Caixeiro</ins>, Francisco M. Fernandes and Riccardo Sapienza, Advanced Optical Materials, 5, 8, (2017).
@@ -44,6 +48,12 @@ Van Duong Ta, <ins>Soraya Caixeiro</ins>, Francisco M. Fernandes and Riccardo Sa
 
 <ins>Soraya Caixeiro</ins>, Matilda Peruzzo, Olimpia D Onelli, Silvia Vignolini and Riccardo Sapienza, ACS Applied Materials & Interfaces, 9, 9, pp 7885-7890, (2017).
 
+[Gain-Based Mechanism for pH Sensing Based on Random Lasing](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.7.034005)
 
+Michele Gaio, <ins>Soraya Caixeiro</ins>, Benedetto Marelli, Fiorenzo G. Omenetto, and Riccardo Sapienza, Physical Review Applied, 7, pp 034005, (2017).
 
 # 2016
+[Silk‐based biocompatible random lasing]()
+
+<ins>Soraya Caixeiro</ins>, Michele Gaio, Benedetto Marelli, Fiorenzo G. Omenetto and Riccardo Sapienza, Advanced Optical Materials 4 7, pp 998-1003 (2016).
+
