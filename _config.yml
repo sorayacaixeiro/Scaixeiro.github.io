@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Aboutme.md", title: "About me"}
   - {file: "news.html", title: "News"}
   - {file: "People.md", title: "People"}
-  - {file: "Pub.html", title: "Publications"}
+  - {file: "Pub.md", title: "Publications"}
   - {file: "vacancy.md", title: "Vacancies"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
