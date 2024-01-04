@@ -33,10 +33,17 @@ Van Duong Ta, <ins>Soraya Caixeiro</ins>, Dhruv Saxena, Riccardo Sapienza, Advan
 
 [Flexible and tensile microporous polymer fibers for wavelength-tunable random lasing](https://pubs.rsc.org/en/content/articlelanding/2020/nr/d0nr02484h/unauth)
 
- Van Duong Ta, Dhruv Saxena, <ins>Soraya Caixeiro</ins> and Riccardo Sapienza, Nanoscale, 23, (2020)
+ Van Duong Ta, Dhruv Saxena, <ins>Soraya Caixeiro</ins> and Riccardo Sapienza, Nanoscale, 23, (2020).
  
-
-# 2019
-# 2018
 # 2017
+[Microsphere solid‐state biolasers](https://onlinelibrary.wiley.com/doi/full/10.1002/adom.201601022)
+
+Van Duong Ta, <ins>Soraya Caixeiro</ins>, Francisco M. Fernandes and Riccardo Sapienza, Advanced Optical Materials, 5, 8, (2017).
+
+[Disordered cellulose-based nanostructures for enhanced light scattering](https://pubs.acs.org/doi/abs/10.1021/acsami.6b15986)
+
+<ins>Soraya Caixeiro</ins>, Matilda Peruzzo, Olimpia D Onelli, Silvia Vignolini and Riccardo Sapienza, ACS Applied Materials & Interfaces, 9, 9, pp 7885-7890, (2017).
+
+
+
 # 2016
