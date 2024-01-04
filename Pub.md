@@ -57,3 +57,8 @@ Riccardo Sapienza,Michele Gaio,  <ins>Soraya Caixeiro</ins> , Patent US201701531
 
 <ins>Soraya Caixeiro</ins>, Michele Gaio, Benedetto Marelli, Fiorenzo G. Omenetto and Riccardo Sapienza, Advanced Optical Materials 4 7, pp 998-1003 (2016).
 
+![AOM-silk](https://sorayacaixeiro.github.io/images/AOM-silk.PNG)
+
+![AOM-micro](https://sorayacaixeiro.github.io/images/AOM-micro.PNG)
+
+![acs](https://sorayacaixeiro.github.io/images/acs.jpg)
