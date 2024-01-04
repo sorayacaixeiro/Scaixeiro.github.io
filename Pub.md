@@ -14,11 +14,18 @@ Vera M. Titze, <ins>Soraya Caixeiro </ins>, Vinh San Dinh, Matthias König, Matt
 
 [Local Sensing of Absolute Refractive Index During Protein‐Binding using Microlasers with Spectral Encoding](https://onlinelibrary.wiley.com/doi/full/10.1002/adom.202300530)
 
-<ins>Soraya Caixeiro</ins>, Casper Kunstmann-Olsen, Marcel Schubert, Joseph Hill, Isla R. M. Barnard, Matthew D. Simmons, Steven Johnson and Malte C. Gather, Advanced Optical Materials, 
-
+<ins>Soraya Caixeiro</ins>, Casper Kunstmann-Olsen, Marcel Schubert, Joseph Hill, Isla R. M. Barnard, Matthew D. Simmons, Steven Johnson and Malte C. Gather, Advanced Optical Materials, 11, 2300530, (2023).
 
 # 2022
+[Red-Shifted Excitation and Two-Photon Pumping of Biointegrated GaInP/AlGaInP Quantum Well Microlasers](https://pubs.acs.org/doi/full/10.1021/acsphotonics.1c01807)
+
+Vera M. Titze, <ins>Soraya Caixeiro</ins>, Andrea Di Falco, Marcel Schubert, and Malte C. Gather, ACS Photonics, 9, 3, pp 952-960, (2022).
+
 # 2021
+[Biocompatible polymer and protein microspheres with inverse photonic glass structure for random micro‐biolasers](https://onlinelibrary.wiley.com/doi/full/10.1002/adpr.202100036)
+
+Van Duong Ta, <ins>Soraya Caixeiro</ins>, Dhruv Saxena, Riccardo Sapienza, Advanced Photonics Research, 2, 8, pp 2100036 (2021).
+
 # 2020
 # 2019
 # 2018
