@@ -27,6 +27,15 @@ Vera M. Titze, <ins>Soraya Caixeiro</ins>, Andrea Di Falco, Marcel Schubert, and
 Van Duong Ta, <ins>Soraya Caixeiro</ins>, Dhruv Saxena, Riccardo Sapienza, Advanced Photonics Research, 2, 8, pp 2100036 (2021).
 
 # 2020
+[Micro and nano lasers from III-V semiconductors for intracellular sensing](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11468/1146811/Micro-and-nano-lasers-from-III-V-semiconductors-for-intracellular/10.1117/12.2568768.short#_=_)
+
+<ins>Soraya Caixeiro</ins>, Alasdair H. Fikouras, Vera Titze, Andrea Di Falco, Marcel Schubert, Malte C. Gather, Proceedings Volume 11468, Enhanced Spectroscopies and Nanoimaging 2020; 1146811 (2020).
+
+[Flexible and tensile microporous polymer fibers for wavelength-tunable random lasing](https://pubs.rsc.org/en/content/articlelanding/2020/nr/d0nr02484h/unauth)
+
+ Van Duong Ta, Dhruv Saxena, <ins>Soraya Caixeiro</ins> and Riccardo Sapienza, Nanoscale, 23, (2020)
+ 
+
 # 2019
 # 2018
 # 2017
