@@ -2,7 +2,6 @@
 
 [Google Scholar](https://scholar.google.co.uk/citations?user=9EDbO-wAAAAJ&hl=en)
 
-# 2024
 # 2023
 [Snapshot hyperspectral imaging of intracellular lasers](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-20-33175&id=538525)
 
@@ -11,6 +10,7 @@
 [Hyperspectral Confocal Imaging for High-Throughput Readout and Analysis of Bio-Integrated Laser Particles- Preprint](https://protocolexchange.researchsquare.com/article/pex-2246/v1)
 
 Vera M. Titze, <ins>Soraya Caixeiro </ins>, Vinh San Dinh, Matthias König, Matthias Rübsam, Nachiket Pathak, Carien M. Niessen, Marcel Schubert and Malte C. Gather. Accepted Nature Protocols.
+
 
 [Local Sensing of Absolute Refractive Index During Protein‐Binding using Microlasers with Spectral Encoding](https://onlinelibrary.wiley.com/doi/full/10.1002/adom.202300530)
 
@@ -36,9 +36,6 @@ Van Duong Ta, <ins>Soraya Caixeiro</ins>, Dhruv Saxena, Riccardo Sapienza, Advan
  Van Duong Ta, Dhruv Saxena, <ins>Soraya Caixeiro</ins> and Riccardo Sapienza, Nanoscale, 23, (2020).
  
 # 2017
-[Random Laser Detector](https://patents.google.com/patent/US20170153179A1/en)
-
-Riccardo Sapienza,Michele Gaio,  <ins>Soraya Caixeiro</ins> , Patent US20170153179A1.
 
 [Microsphere solid‐state biolasers](https://onlinelibrary.wiley.com/doi/full/10.1002/adom.201601022)
 
@@ -52,8 +49,12 @@ Van Duong Ta, <ins>Soraya Caixeiro</ins>, Francisco M. Fernandes and Riccardo Sa
 
 Michele Gaio, <ins>Soraya Caixeiro</ins>, Benedetto Marelli, Fiorenzo G. Omenetto, and Riccardo Sapienza, Physical Review Applied, 7, pp 034005, (2017).
 
+[Random Laser Detector](https://patents.google.com/patent/US20170153179A1/en)
+
+Riccardo Sapienza,Michele Gaio,  <ins>Soraya Caixeiro</ins> , Patent US20170153179A1.
+
 # 2016
-[Silk‐based biocompatible random lasing]()
+[Silk‐based biocompatible random lasing](https://onlinelibrary.wiley.com/doi/full/10.1002/adom.201600185)
 
 <ins>Soraya Caixeiro</ins>, Michele Gaio, Benedetto Marelli, Fiorenzo G. Omenetto and Riccardo Sapienza, Advanced Optical Materials 4 7, pp 998-1003 (2016).
 
