@@ -10,11 +10,11 @@ While open calls for opportunities can be found below, there are also numerous p
 
 Competitive funding avaliable
 
-[Dynamic subcellular analysis of novel integrative biomaterials](https://www.findaphd.com/phds/project/epsrc-dtp-phd-project-dynamic-subcellular-analysis-of-novel-integrative-biomaterials/?p165759)
+[Dynamic subcellular analysis of novel integrative biomaterials](https://www.findaphd.com/phds/project/epsrc-dtp-phd-project-dynamic-subcellular-analysis-of-novel-integrative-biomaterials/?p165759) - Deadline 23/01/2024
 
 Self funded students
 
-[Metamaterial-based chiroptical spectroscopy for bio-analysis](https://www.findaphd.com/phds/project/metamaterial-based-chiroptical-spectroscopy-for-bio-analysis/?p167361)
+[Metamaterial-based chiroptical spectroscopy for bio-analysis](https://www.findaphd.com/phds/project/metamaterial-based-chiroptical-spectroscopy-for-bio-analysis/?p167361) - CLOSED
 
 # Research staff/ Postdoctoral positions
 Currently, there are no available positions. Nevertheless, if you are keen on becoming part of our team we encourage you to reach out. Below, you'll find a variety of options, and keep in mind that these are just a few examples – funding opportunities are not limited to these:
