@@ -19,11 +19,12 @@ Self funded students
 # Research staff/ Postdoctoral positions
 Currently, there are no funded positions avaliable.Nevertheless, if you are keen on becoming part of our team, we encourage you to reach out. Below, you'll find a variety of prestigious funding options; keep in mind that these are just a few examples – funding opportunities are not limited to these. I would be delighted to support and assist you with your application. 
 
-[EPSRC postdoctoral fellowships](https://www.ukri.org/opportunity/epsrc-post-doctoral-fellowships-dec-2023-responsive-mode/)
 
 [Leverhulme Early Career Fellowships](https://www.leverhulme.ac.uk/early-career-fellowships)
 
-[Marie Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
+[Marie Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) - Next call opens 9th April 2024, you must be outside of the UK for the last 12 months in a 36 month period.  
 
 [EMBO Postdoctoral Fellowships](https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/)
+
+[Newton international Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/) Overseas applicants.
 
