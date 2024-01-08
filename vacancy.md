@@ -17,7 +17,7 @@ Self funded students
 [Metamaterial-based chiroptical spectroscopy for bio-analysis](https://www.findaphd.com/phds/project/metamaterial-based-chiroptical-spectroscopy-for-bio-analysis/?p167361) - CLOSED
 
 # Research staff/ Postdoctoral positions
-Currently, there are no available positions. Nevertheless, if you are keen on becoming part of our team we encourage you to reach out. Below, you'll find a variety of options, and keep in mind that these are just a few examples – funding opportunities are not limited to these:
+Currently, there are no funded positions avaliable.Nevertheless, if you are keen on becoming part of our team, we encourage you to reach out. Below, you'll find a variety of prestigious funding options; keep in mind that these are just a few examples – funding opportunities are not limited to these. I would be delighted to support and assist you with your application. 
 
 [EPSRC postdoctoral fellowships](https://www.ukri.org/opportunity/epsrc-post-doctoral-fellowships-dec-2023-responsive-mode/)
 
