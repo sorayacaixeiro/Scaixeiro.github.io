@@ -21,6 +21,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "People.md", title: "People"}
   - {file: "Pub.md", title: "Publications"}
   - {file: "vacancy.md", title: "Vacancies"}
+  - {file: "contact.md", title: "Contact me"}
+
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:scc201@bath.ac.uk"}
