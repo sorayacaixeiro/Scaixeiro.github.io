@@ -7,7 +7,7 @@ I consistently seek out promising prospective students and research scientists p
 While open calls for opportunities can be found below, there are also numerous possibilities for self-funded scholarships and early-career PhD holders to seek funding to join my research group. I am dedicated to supporting their applications, so please feel free to contact me without hesitation.
 
 # Master student positions
-There are many avaliable project whihc can be tailored to students interests!
+There are many avaliable projects which can be tailored to students interests, get in touch!
 
 # PhD positions
 
