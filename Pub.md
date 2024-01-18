@@ -2,6 +2,10 @@
 title: "Publications"
 layout: page
 ---
+# 2024 
+[Hyperspectral confocal imaging for high-throughput readout and analysis of bio-integrated microlasers](https://doi.org/10.1038/s41596-023-00924-6)
+
+Vera M. Titze, <ins>Soraya Caixeiro </ins>, Vinh San Dinh, Matthias König, Matthias Rübsam, Nachiket Pathak, Anna-Lena Schumacher, Maximilian Germer, Christian Kukat, Carien M. Niessen, Marcel Schubert and Malte C. Gather, Nature Protocols (2024).
 
 # 2023
 [Snapshot hyperspectral imaging of intracellular lasers](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-20-33175&id=538525)
