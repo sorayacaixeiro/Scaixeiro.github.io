@@ -31,3 +31,5 @@ Currently, there are no funded positions avaliable.Nevertheless, if you are keen
 
 [Newton international Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/) Overseas applicants.
 
+[RoyalAcademy of Engineering Research Fellowships Scheme](https://www.bath.ac.uk/announcements/selection-process-for-royal-academy-of-engineering-fellowships-2024/) deadline for expression of interest - 21st February 2024. Candidatee within 4 years of PhD award. 
+
