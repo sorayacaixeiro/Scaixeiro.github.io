@@ -6,18 +6,11 @@ layout: page
 I consistently seek out promising prospective students and research scientists particularly in the domains of microlasers, nanolasers, nanophotonics, material science, and biosensors.
 While open calls for opportunities can be found below, there are also numerous possibilities for self-funded scholarships and early-career PhD holders to seek funding to join my research group. I am dedicated to supporting their applications, so please feel free to contact me without hesitation.
 
+# Undergraduate/ penultimum year summer internship
+These project typically go one 8-12 week in the summer months, funding must be secured and there are various avenues to explore in order to obtain this. If interested in my Lab's research please get in touch by early Febuary.
+
 # Master student positions
 There are many avaliable projects which can be tailored to students interests, get in touch!
-
-# PhD positions
-
-Competitive funding avaliable
-
-[Dynamic subcellular analysis of novel integrative biomaterials](https://www.findaphd.com/phds/project/epsrc-dtp-phd-project-dynamic-subcellular-analysis-of-novel-integrative-biomaterials/?p165759) - Deadline 23/01/2024
-
-Self funded students
-
-[Metamaterial-based chiroptical spectroscopy for bio-analysis](https://www.findaphd.com/phds/project/metamaterial-based-chiroptical-spectroscopy-for-bio-analysis/?p167361) - CLOSED
 
 # Research staff/ Postdoctoral positions
 Currently, there are no funded positions avaliable.Nevertheless, if you are keen on becoming part of our team, we encourage you to reach out. Below, you'll find a variety of prestigious funding options; keep in mind that these are just a few examples – funding opportunities are not limited to these. I would be delighted to support and assist you with your application. 
@@ -33,3 +26,16 @@ Currently, there are no funded positions avaliable.Nevertheless, if you are keen
 
 [Royal Academy of Engineering Research Fellowships Scheme](https://www.bath.ac.uk/announcements/selection-process-for-royal-academy-of-engineering-fellowships-2024/) deadline for expression of interest - 21st February 2024. Candidatee within 4 years of PhD award. 
 
+# PhD positions 
+
+I encorage self-funded student applications and externally funded through-out the year. 
+
+Funded PhD projects are advertised at the end of the year with an application deadline typically in January. 
+
+### closed positions 2024 start 
+
+[Dynamic subcellular analysis of novel integrative biomaterials](https://www.findaphd.com/phds/project/epsrc-dtp-phd-project-dynamic-subcellular-analysis-of-novel-integrative-biomaterials/?p165759) - Deadline 23/01/2024
+
+Self funded students
+
+[Metamaterial-based chiroptical spectroscopy for bio-analysis](https://www.findaphd.com/phds/project/metamaterial-based-chiroptical-spectroscopy-for-bio-analysis/?p167361) - CLOSED
