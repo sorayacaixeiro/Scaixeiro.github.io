@@ -3,6 +3,12 @@ layout: page
 permalink: /News/
 title: News
 ---
+# March
+# Feburary
+## Outreach activity with Wyedean School 
+
+We had a group of very excited students from Wyedean School who came to the Physics Department at University of Bath to learn about optics from lasers to chirality!
+
 
 # January 2024
 ## New publication in Nature Protocols
