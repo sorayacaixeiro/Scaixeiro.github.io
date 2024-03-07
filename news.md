@@ -4,9 +4,7 @@ permalink: /News/
 title: News
 ---
 # March
-
 ## Pub Lecture 
-
 On the 14th of March I will be at the The Canon (1 Barton St, Bath BA1 1HQ) @7pm to give a lecture titled: Illuminate, detect, track with miniturised lasers. Event organised by **SU PhySoc**
 
 ## International Women's day
@@ -15,7 +13,6 @@ On the 14th of March I will be at the The Canon (1 Barton St, Bath BA1 1HQ) @7pm
 <div>
     
 # Feburary
-
 ## Outreach activity with Wyedean School 
 
 We had a group of very excited students visit from Wyedean School to learn about optics from lasers to chirality! 
@@ -23,7 +20,6 @@ We had a group of very excited students visit from Wyedean School to learn about
 <img src="https://sorayacaixeiro.github.io/images/PXL_20240202_135047995.jpg" width="225" height="300">
 
 # January 2024
-
 ## New publication in Nature Protocols
 
 check out: [Hyperspectral confocal imaging for high-throughput readout and analysis of bio-integrated microlasers](https://www.nature.com/articles/s41596-023-00924-6)
