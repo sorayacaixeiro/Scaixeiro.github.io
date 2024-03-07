@@ -12,9 +12,8 @@ title: News
 ## Outreach activity with Wyedean School 
 
 We had a group of very excited students from Wyedean School who came to the Physics Department at University of Bath to learn about optics from lasers to chirality!
-
+<br>
 <img src="https://sorayacaixeiro.github.io/images/PXL_20240202_135047995.jpg.jpg" width="225" height="300">
-
 
 # January 2024
 ## New publication in Nature Protocols
