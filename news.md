@@ -5,7 +5,7 @@ title: News
 ---
 # March
 **Pub lecture**
-On the 14th of March I will be at the The Canon (1 Barton St, Bath BA1 1HQ) @7pm to give a lecture titled: Illuminate, detect, track with miniturised lasers. Event organised by **SU PhySoc**
+On the 14th of March I will be at the The Canon (1 Barton St, Bath BA1 1HQ) @8pm to give a lecture titled: Illuminate, detect, track with miniturised lasers. Event organised by **SU PhySoc**
 <br>
 **International Women's day**
 <div>
