@@ -10,14 +10,15 @@ We are located at the University of Bath in the South West of England. Besides t
 The main themes of research we explore are: 
 
 <h2>Nano- and microlaser development</h2>
-Unconventional cavities
-Random lasers 
-Whispering gallery mode laser 
+<br>Unconventional cavities
+<br>Random lasers 
+<br>Whispering gallery mode laser 
 
 <h2>Development of optical bio-sensors</h2>
-exploring optical phenomena for sensing
-bioresponfive sensors
-biointegration
+<br>exploring optical phenomena for sensing
+<br>bioresponsive sensors
+<br>biointegration
 <h2>Development of novel imaging and spectroscopic techniques</h2>
-Fast spectroscopy
-Hyperspectral imaging 
+<h2>Fast spectroscopy
+<h2>Hyperspectral imaging 
+<h2>Imaging analysis 
