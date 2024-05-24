@@ -5,7 +5,7 @@ layout: page
 # 2024 
 [Estimating full-field displacement in biological images using deep learning](https://www.biorxiv.org/content/10.1101/2024.05.21.595161v1)
 
-Solomon J.E.T. Warsop, <ins>Soraya Caixeiro </ins>, Marcus Bischoff, Jochen Kursawe,  Graham D. Bruce, Philip Wijesinghe, bioRxiv 2024.05.21.595161 (2024).
+Solomon J.E.T. Warsop, <ins>Soraya Caixeiro</ins>, Marcus Bischoff, Jochen Kursawe,  Graham D. Bruce, Philip Wijesinghe, bioRxiv 2024.05.21.595161 (2024).
 
 [Hyperspectral confocal imaging for high-throughput readout and analysis of bio-integrated microlasers](https://doi.org/10.1038/s41596-023-00924-6)
 
