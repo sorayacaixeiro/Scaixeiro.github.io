@@ -7,7 +7,7 @@ title: News
 # 2024
 ## May
 **New paper** 
-Check out [Estimating full-field displacement in biological images using deep learning](https://www.biorxiv.org/content/10.1101/2024.05.21.595161v1) Led by Master student Solomon and supervised by Dr. Philip Wijesinghe and Dr. Graham D. Bruce! Comes with a ImageJ/Fiji plugin to analyse deformation in biological tissue!
+Check out [Estimating full-field displacement in biological images using deep learning](https://www.biorxiv.org/content/10.1101/2024.05.21.595161v1) Led by Master student Solomon Warsop and supervised by Dr. Philip Wijesinghe and Dr. Graham D. Bruce! Comes with a ImageJ/Fiji plugin to analyse deformation in biological tissue!
 
 ## March
 **Pub lecture**
