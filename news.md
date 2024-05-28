@@ -11,7 +11,8 @@ I will be at the Technical University of Munich on the 6th and 7th June for the 
 ## May
 **New paper** 
 Check out [Estimating full-field displacement in biological images using deep learning](https://www.biorxiv.org/content/10.1101/2024.05.21.595161v1) Led by Master student Solomon Warsop and supervised by Dr. Philip Wijesinghe and Dr. Graham D. Bruce! Comes with a ImageJ/Fiji plugin to analyse deformation in biological tissue!
-cardioDeformNET
+<img src="https://sorayacaixeiro.github.io/images/cardioDeformNET.png" width="345" height="225">
+<br>
 
 ## March
 **Pub lecture**
@@ -33,6 +34,7 @@ We had a group of very excited students visit from Wyedean School to learn about
 **New publication in Nature Protocols**
 check out: [Hyperspectral confocal imaging for high-throughput readout and analysis of bio-integrated microlasers](https://www.nature.com/articles/s41596-023-00924-6)
 Fantastic work by PhD student [Vera Titze](https://twitter.com/TitzeVera?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) and co-authors. A culmination of years of work led by the [Gather Lab](https://gatherlab.uni-koeln.de/) and the [Schubert Lab](https://schubert-lab.uni-koeln.de/), it was lovely to have contribuited to this work and see it take shape over the years. 
+<br>
 <img src="https://sorayacaixeiro.github.io/images/figurepaper.PNG" width="460" height="349">
 
 # 2023
