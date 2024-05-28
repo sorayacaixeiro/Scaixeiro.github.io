@@ -11,6 +11,7 @@ I will be at the Technical University of Munich on the 6th and 7th June for the 
 ## May
 **New paper** 
 Check out [Estimating full-field displacement in biological images using deep learning](https://www.biorxiv.org/content/10.1101/2024.05.21.595161v1) Led by Master student Solomon Warsop and supervised by Dr. Philip Wijesinghe and Dr. Graham D. Bruce! Comes with a ImageJ/Fiji plugin to analyse deformation in biological tissue!
+cardioDeformNET
 
 ## March
 **Pub lecture**
