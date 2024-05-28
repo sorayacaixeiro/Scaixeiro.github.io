@@ -1,8 +1,7 @@
 
 ---
 layout: post
-permalink: /News/
-title: News
+title: "News"
 ---
 # 2024
 ## June
