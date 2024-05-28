@@ -1,8 +1,8 @@
-
 ---
 layout: page
 title: "News"
 ---
+
 # 2024
 ## June
 **Invited Talk** Biogenic Materials Science Workshop TUM Campus Straubing 
@@ -20,16 +20,16 @@ On the 14th of March I will be at the The Canon (1 Barton St, Bath BA1 1HQ) @8pm
 <div>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re really looking forward to taking part in the Women in STEMM Summit 2024! <br><br>Find out more and register for this ground-breaking event celebrating science, research and innovations by women across all disciplines in STEMM<a href="https://t.co/uUSZ68Xd7k">https://t.co/uUSZ68Xd7k</a> <a href="https://t.co/TwVInfnDuO">pic.twitter.com/TwVInfnDuO</a></p>&mdash; RMS (@RoyalMicroSoc) <a href="https://twitter.com/RoyalMicroSoc/status/1762100313278845354?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 <div>
-<br>
 
+  
 ## Feburary
 **Outreach activity with Wyedean School** 
 
 We had a group of very excited students visit from Wyedean School to learn about optics from lasers to chirality! 
-<br>
+
 
 <img src="https://sorayacaixeiro.github.io/images/PXL_20240202_135047995.jpg" width="225" height="300">
-<br>
+
 
 ## January 
 **New publication in Nature Protocols**
