@@ -3,6 +3,11 @@ title: "Publications"
 layout: page
 ---
 # 2024 
+[Random lasing in micron-sized individual supraparticles](https://opg.optica.org/directpdfaccess/9cbee84f-b2fb-4f1a-b390833eddfbd69d_ads524897.pdf?da=1&adsid=524897&journal=3&seq=0&mobile=no)
+
+Van Duong Ta,Toan Van Nguyen, Tung Anh Doan, Dung Duong, <ins>Soraya Caixeiro </ins>, Dhruv Saxena, Riccardo Sapienza
+
+
 [Estimating full-field displacement in biological images using deep learning](https://www.biorxiv.org/content/10.1101/2024.05.21.595161v1)
 
 Solomon J.E.T. Warsop, <ins>Soraya Caixeiro</ins>, Marcus Bischoff, Jochen Kursawe,  Graham D. Bruce, Philip Wijesinghe, bioRxiv 2024.05.21.595161 (2024).
