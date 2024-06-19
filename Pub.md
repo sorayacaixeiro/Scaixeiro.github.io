@@ -60,7 +60,7 @@ Michele Gaio, <ins>Soraya Caixeiro</ins>, Benedetto Marelli, Fiorenzo G. Omenett
 
 [Random Laser Detector](https://patents.google.com/patent/US20170153179A1/en)
 
-Riccardo Sapienza,Michele Gaio,  <ins>Soraya Caixeiro</ins> , Patent US20170153179A1.
+Riccardo Sapienza, Michele Gaio,  <ins>Soraya Caixeiro</ins>, Patent US20170153179A1.
 
 # 2016
 [Silk‐based biocompatible random lasing](https://onlinelibrary.wiley.com/doi/full/10.1002/adom.201600185)
