@@ -15,7 +15,7 @@ In 2021, the lab moved to establish the Humboldt Centre for Nano- and Biophotoni
 Eventually, in September 2023, I became a tenure track [Prize Fellow in Healthcare in the Department of Physics](https://researchportal.bath.ac.uk/en/persons/soraya-caixeiro) at the University of Bath, UK.
 
 
-![Sydney headshot](https://sorayacaixeiro.github.io/images/sydney2024.png)
+![Sydney headshot](https://sorayacaixeiro.github.io/images/sydney2024.jpeg)
 
 **Sydney Wright (Summer student)**
 
