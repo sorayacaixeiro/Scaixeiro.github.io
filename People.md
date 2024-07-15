@@ -5,7 +5,7 @@ title: "People"
 
 <img src="https://sorayacaixeiro.github.io/images/sydney2024.jpeg" width="320" height="320">
 
-**Sydney Wright- Rank Prize summer student**
+**Sydney Wright**  Rank Prize Summer Student
 
 I am a fourth-year university student undertaking an integrated master's in Physics and Astrophysics at the University of Bath, to be completed in 2025. I am currently working on a Rank Prize studentship with Soraya in the rapid detection of laser wavelengths, with the aim of rapid identification of microlasers in biological applications. 
 
@@ -16,7 +16,7 @@ Please do not hestitate to contact me [scc201@bath.ac.uk](mailto:scc201@bath.ac.
 
 ![My headshot](https://sorayacaixeiro.github.io/images/headshot.png)
 
-**Dr. Soraya Caixeiro (Group Leader)**
+**Dr. Soraya Caixeiro** Group Leader
 
 Prize Fellow in health care for Physics, Department of Physics
 
