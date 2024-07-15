@@ -4,7 +4,7 @@ title: "People"
 ---
 **Dr. Soraya Caixeiro** Group Leader
 
-![My headshot](https://sorayacaixeiro.github.io/images/headshot.png)
+![My headshot]()<img src="https://sorayacaixeiro.github.io/images/headshot.png" width="200" height="200">
 
 Prize Fellow in health care for Physics, Department of Physics
 
@@ -14,10 +14,8 @@ In 2021, the lab moved to establish the Humboldt Centre for Nano- and Biophotoni
 Eventually, in September 2023, I became a tenure track [Prize Fellow in Healthcare in the Department of Physics](https://researchportal.bath.ac.uk/en/persons/soraya-caixeiro) at the University of Bath, UK.
 
 # The team
-
-<img src="https://sorayacaixeiro.github.io/images/sydney2024.jpeg" width="320" height="320">
-
 **Sydney Wright**  Rank Prize Summer Student
+<img src="https://sorayacaixeiro.github.io/images/sydney2024.jpeg" width="200" height="200">
 
 I am a fourth-year university student undertaking an integrated master's in Physics and Astrophysics at the University of Bath, to be completed in 2025. I am currently working on a Rank Prize studentship with Soraya in the rapid detection of laser wavelengths, with the aim of rapid identification of microlasers in biological applications. 
 
