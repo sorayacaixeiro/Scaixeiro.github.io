@@ -3,9 +3,14 @@ title: "Publications"
 layout: page
 ---
 # 2024 
-[Random lasing in micron-sized individual supraparticles](https://opg.optica.org/directpdfaccess/9cbee84f-b2fb-4f1a-b390833eddfbd69d_ads524897.pdf?da=1&adsid=524897&journal=3&seq=0&mobile=no)
+[Optical Manipulation of Whispering Gallery Mode Microlasers for Precision Controlled CellularDelivery](https://arxiv.org/pdf/2409.01485)
 
-Van Duong Ta,Toan Van Nguyen, Tung Anh Doan, Dung Duong, <ins>Soraya Caixeiro </ins>, Dhruv Saxena, Riccardo Sapienza
+<ins>Soraya Caixeiro</ins>, Paloma Rodríguez-Sevilla, Kishan Dholakia, Malte C Gather arXiv 2409.01485 (2024)
+
+
+[Random lasing in micron-sized individual supraparticles](https://opg.optica.org/ol/abstract.cfm?uri=ol-49-14-3886)
+
+Van Duong Ta,Toan Van Nguyen, Tung Anh Doan, Dung Duong, <ins>Soraya Caixeiro </ins>, Dhruv Saxena, Riccardo Sapienza. Optics Letters, 49, 14, pp. 3886-3889 (2024) 
 
 
 [Estimating full-field displacement in biological images using deep learning](https://www.biorxiv.org/content/10.1101/2024.05.21.595161v1)
