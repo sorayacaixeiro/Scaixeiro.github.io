@@ -46,7 +46,7 @@ On the 14th of March I will be at the The Canon (1 Barton St, Bath BA1 1HQ) @8pm
 **Outreach activity with Wyedean School** 
 
 We had a group of very excited students visit from Wyedean School to learn about optics from lasers to chirality! 
-<br>
+
 <img src="https://sorayacaixeiro.github.io/images/PXL_20240202_135047995.jpg" width="225" height="300">
 
 ## January 
