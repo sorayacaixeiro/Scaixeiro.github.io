@@ -4,11 +4,19 @@ title: "News"
 ---
 
 # 2024
+
+## October
+**Invited seminar** Exeter 
+I will be at the University of Exeter on the 16th October to give an invited talk at the Engineering Seminar Series.
+
 ## September
 **Invited Talk** Photon 2024, Swansea
 I was at Swansea arena for the largest UK optics conference, Photon. There were some great talks! I gave an invited talk and contribuited talk about my research. 
 
 <img src="https://sorayacaixeiro.github.io/images/photon.png.jpg" width="462" height="347">
+
+## July 
+Welcome Sydney Wright to the lab as a Rank prize summer student!
 
 ## June
 **Invited Talk** Biogenic Materials Science Workshop TUM Campus Straubing 
