@@ -6,8 +6,9 @@ title: "News"
 # 2024
 ## September
 **Invited Talk** Photon 2024, Swansea
-I was at Swansea arena for the largest UK optics conference, Photon. I gave an invited talk and contribuited talk. 
-![image](https://github.com/user-attachments/assets/726983e4-b39b-4ea0-8f3f-7a88594fd5e4)
+I was at Swansea arena for the largest UK optics conference, Photon. There were some great talks! I gave an invited talk and contribuited talk about my research. 
+
+<img src="https://sorayacaixeiro.github.io/images/photon.png" width="462" height="347">
 
 ## June
 **Invited Talk** Biogenic Materials Science Workshop TUM Campus Straubing 
