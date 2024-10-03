@@ -6,23 +6,27 @@ title: "News"
 # 2024
 
 ## October
-**Invited seminar** Exeter 
-I will be at the University of Exeter on the 16th October to give an invited talk at the Engineering Seminar Series.
+**Invited Talk Univeristy of Exeter** I will be at the University of Exeter on the 16th October to give an invited talk at the Engineering Seminar Series.
+
+**Welcome** To my masters students! 
 
 ## September
+**New Preprint** Check out my latest paper: [Optical Manipulation of Whispering Gallery Mode Microlasers for Precision Controlled Cellular Delivery] (https://arxiv.org/abs/2409.01485) from my time at the University of Cologne, led by me and Paloma Rodríguez-Sevilla in collaboration with Prof. Kishan Dholakia, and conducted within Prof. Malte Gather's research group.
+
 **Invited Talk** Photon 2024, Swansea
 I was at Swansea arena for the largest UK optics conference, Photon. There were some great talks! I gave an invited talk and contribuited talk about my research. 
 
 <img src="https://sorayacaixeiro.github.io/images/photon.png.jpg" width="462" height="347">
 
 ## July 
-Welcome Sydney Wright to the lab as a Rank prize summer student!
+**Welcome** Sydney Wright to the lab as a Rank prize summer student!
 
 ## June
 **Invited Talk** Biogenic Materials Science Workshop TUM Campus Straubing 
 I will be at the Technical University of Munich on the 6th and 7th June for the Biogenic Materials Science Workshop, looking forward to some great science and discussions! 
 
 <img src="https://sorayacaixeiro.github.io/images/IMG_2983.JPG" width="455" height="241">
+
 ## May
 **New paper** 
 Check out [Estimating full-field displacement in biological images using deep learning](https://www.biorxiv.org/content/10.1101/2024.05.21.595161v1) Led by Master student Solomon Warsop and supervised by Dr. Philip Wijesinghe and Dr. Graham D. Bruce! Comes with a ImageJ/Fiji plugin to analyse deformation in biological tissue!
