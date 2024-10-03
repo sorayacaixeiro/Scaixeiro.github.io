@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "People"
+title: "The team"
 ---
 **Dr. Soraya Caixeiro** Group Leader
 
@@ -11,12 +11,16 @@ Following that, I joined the Soft Matter Photonics Group at the University of St
 In 2021, the lab moved to establish the Humboldt Centre for Nano- and Biophotonics at the University of Cologne, Germany. 
 Eventually, in September 2023, I became a tenure track [Prize Fellow in Healthcare in the Department of Physics](https://researchportal.bath.ac.uk/en/persons/soraya-caixeiro) at the University of Bath, UK.
 
-# The team
+**Master student1** TBD
+**Master student2** TBD
+**Master student3** TBD
+
+##Alumni 
 **Sydney Wright**  Rank Prize Summer Student
 
-<img src="https://sorayacaixeiro.github.io/images/sydney2024.jpeg" width="200" height="200">
+<img src="https://sorayacaixeiro.github.io/images/sydney2024.jpeg" width="100" height="100">
 
-I am a fourth-year university student undertaking an integrated master's in Physics and Astrophysics at the University of Bath, to be completed in 2025. I am currently working on a Rank Prize studentship with Soraya in the rapid detection of laser wavelengths, with the aim of rapid identification of microlasers in biological applications. 
+I am a fourth-year university student undertaking an integrated master's in Physics and Astrophysics at the University of Bath, to be completed in 2025. I worked on a Rank Prize studentship with Soraya in the rapid detection of laser wavelengths. 
 
 
 **Could this be you?**
