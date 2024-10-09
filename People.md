@@ -11,11 +11,12 @@ Following that, I joined the Soft Matter Photonics Group at the University of St
 In 2021, the lab moved to establish the Humboldt Centre for Nano- and Biophotonics at the University of Cologne, Germany. 
 Eventually, in September 2023, I became a tenure track [Prize Fellow in Healthcare in the Department of Physics](https://researchportal.bath.ac.uk/en/persons/soraya-caixeiro) at the University of Bath, UK.
 
-**Master student1** TBD
+**MPhys students**
 
-**Master student2** TBD
+**BSc students** 
+Kiera Knight
 
-**Master student3** TBD
+
 
 ## Alumni 
 **Sydney Wright**  Rank Prize Summer Student
