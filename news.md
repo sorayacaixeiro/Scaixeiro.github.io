@@ -49,8 +49,6 @@ On the 14th of March I will be at the The Canon (1 Barton St, Bath BA1 1HQ) @8pm
 
 We had a group of very excited students visit from Wyedean School to learn about optics from lasers to chirality! 
 
-<img src="https://sorayacaixeiro.github.io/images/PXL_20240202_135047995.jpg" width="225" height="300">
-
 ## January 
 **New publication in Nature Protocols**
 check out: [Hyperspectral confocal imaging for high-throughput readout and analysis of bio-integrated microlasers](https://www.nature.com/articles/s41596-023-00924-6)
