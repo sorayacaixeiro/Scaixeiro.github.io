@@ -6,6 +6,8 @@ title: "News"
 # 2024
 
 ## October
+**I have one funded PhD project starting in October 2025**. Please contact me directly if interested and to talk about potential projects and how we can tailor them to your interests. 
+
 **Invited Talk Univeristy of Exeter** I will be at the University of Exeter on the 16th October to give an invited talk at the Engineering Seminar Series.
 
 **Welcome** To my masters students! 
