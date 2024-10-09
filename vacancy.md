@@ -7,8 +7,9 @@ I consistently seek out promising prospective students and research scientists p
 While open calls for opportunities can be found below, there are also numerous possibilities for self-funded scholarships, particular funding avaliable from students from the Americas and China and early-career PhD holders to seek funding to join my research group. I am dedicated to supporting their applications, so please feel free to contact me without hesitation.
 
 # PhD positions 
+
+**I have one funded PhD project starting in October 2025**. Please contact me directly if interested and to talk about potential projects and how we can tailor them to your interests.
 I encorage self-funded student applications and externally funded through-out the year. 
-I have one funded PhD project starting in October 2025, soon to be anounced. please contact me earlier if interested and to talk about potential projects.
 
 # Research staff/ Postdoctoral positions
 Currently, there are no funded positions avaliable. Nevertheless, if you are keen on becoming part of our team, we encourage you to reach out. Below, you'll find a variety of prestigious funding options; keep in mind that these are just a few examples I would be delighted to support and assist you with your application. 
