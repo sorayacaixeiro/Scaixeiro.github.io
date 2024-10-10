@@ -12,10 +12,14 @@ In 2021, the lab moved to establish the Humboldt Centre for Nano- and Biophotoni
 Eventually, in September 2023, I became a tenure track [Prize Fellow in Healthcare in the Department of Physics](https://researchportal.bath.ac.uk/en/persons/soraya-caixeiro) at the University of Bath, UK.
 
 **MPhys students**
+
 Arianne Dunn
+
 Ollie Burt
 
+
 **BSc students** 
+
 Kiera Knight
 
 
