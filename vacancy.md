@@ -8,8 +8,9 @@ While open calls for opportunities can be found below, there are also numerous p
 
 # PhD positions 
 
-**I have one funded PhD project starting in October 2025**. Please contact me directly if interested and to talk about potential projects and how we can tailor them to your interests.
-I encorage self-funded student applications and externally funded through-out the year. 
+**I have one funded PhD project starting in October 2025**. 
+
+[Funded PhD position](https://www.findaphd.com/phds/project/faculty-of-science-ursa-phd-project-functional-biointegrated-micro-and-nanolaser-sensors-for-tissue-and-single-cell-applications/?p176163) This is a funded PhD studentship open to all nationalities - Please contact me directly if interested and to talk about potential projects and how we can tailor them to your interests- advert will open soon. 
 
 # Research staff/ Postdoctoral positions
 Currently, there are no funded positions avaliable. Nevertheless, if you are keen on becoming part of our team, we encourage you to reach out. Below, you'll find a variety of prestigious funding options; keep in mind that these are just a few examples I would be delighted to support and assist you with your application. 
